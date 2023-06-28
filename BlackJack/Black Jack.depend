@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1673375671 source:c:\users\romain stefani\documents\cours romain\black jack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mesFonctions.h"
+	<assert.h>
+	<wchar.h>
+	<windows.h>
+
+1673375845 c:\users\romain stefani\documents\cours romain\black jack\mesfonctions.h
+
+1673375847 source:c:\users\romain stefani\documents\cours romain\black jack\mesfonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"mesFonctions.h"
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<malloc.h>
+
+1673736939 source:c:\users\reezord\documents\sae\blackjack\black jack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mesFonctions.h"
+	<assert.h>
+	<wchar.h>
+	<windows.h>
+
+1673564316 c:\users\reezord\documents\sae\blackjack\black jack\mesfonctions.h
+
+1673737334 source:c:\users\reezord\documents\sae\blackjack\black jack\mesfonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"mesFonctions.h"
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<malloc.h>
+
+1673953048 source:c:\users\romain stefani\documents\cours romain\sae\blackjack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mesFonctions.h"
+	<assert.h>
+	<wchar.h>
+	<windows.h>
+
+1673952808 c:\users\romain stefani\documents\cours romain\sae\blackjack\mesfonctions.h
+
+1673953064 source:c:\users\romain stefani\documents\cours romain\sae\blackjack\mesfonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"mesFonctions.h"
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<malloc.h>
+
